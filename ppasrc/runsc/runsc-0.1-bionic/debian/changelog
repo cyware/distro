@@ -1,0 +1,23 @@
+runsc (0.11.3-bionic) bionic; urgency=medium
+
+  * Updated .exe files to use the latest versions.
+
+ -- Cyware Distribution <distro@cyware.org>  Sun, 18 Jul 2021 14:37:27 -0400
+
+runsc (0.11.2-bionic) bionic; urgency=medium
+
+  * Updated .exe files to use the latest versions. 
+
+ -- Cyware Distribution <distro@cyware.org>  Thu, 15 Jul 2021 10:00:35 -0400
+
+runsc (0.11.1-bionic) bionic; urgency=medium
+
+  * Added runsc32 and runsc64 wrappers. 
+
+ -- Cyware Distribution <distro@cyware.org>  Tue, 29 Jun 2021 09:35:47 -0400
+
+runsc (0.1-bionic) bionic; urgency=medium
+
+  * Initial Release.
+
+ -- Cyware Distribution <distro@cyware.org>  Mon, 14 Jun 2021 22:32:43 -0400

@@ -1,1 +1,1 @@
-# distro
+This repository contains supplemental files for the [Cyware](https://Cyware.org) distro and the source files for the Debian packages that the distro installs from the [Cyware package repository](https://launchpad.net/~cyware/+archive/ubuntu/stable/+packages) on Launchpad.
